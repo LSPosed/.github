@@ -1,12 +1,8 @@
-## Hi there 👋
+## LSPosed Framework
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Public release: [lsposed.zip](https://lsposed.zip/)
+- Bug report: [report at bug.lsposed.org](mailto:report@bug.lsposed.org)
+- Module repository: [modules.lsposed.org](https://modules.lsposed.org/)
+- Internal testing: [Telegram](https://t.me/s/LSPosed/287)
+- Modern xposed api: [libxposed](https://libxposed.github.io/api/)
+- App translations: [Github](https://github.com/LSPosed/LSPosed_translations)
